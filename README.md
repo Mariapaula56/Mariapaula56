@@ -24,4 +24,5 @@ El tema del desarrollo web entro a mi vida hace mas de un año cuando me di cuen
 Tambien tengo conocimientos en herramientas de disño visual como Figma
 
 
-
+TELEFONO: +57 3016460334
+CORREO: acostapaula7223@gmail.com  
