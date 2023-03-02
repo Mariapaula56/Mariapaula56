@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hola, Mi nombre es Maria Paula Acosta 👋
 
-<!--
-**Mariapaula56/Mariapaula56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<hi>¿QUIEN SOY?<h1/>
+¿QUIEN SOY?
 
-Soy una programadora o desarroladora web Fullstack enfocada mas al diseño y creacion de proyectos en Frontend.
+<h4>Soy una programadora o desarroladora web Fullstack enfocada mas al diseño y creacion de proyectos en Frontend.
 
-Desde hace un tiempo me empezo a interesar todo el tema del diseño de paginas web y la experiencia de usuario pero tenia la necesidad de saber que habia detras de todo eso y el cómo era iniciar un aplicación o desarrollar una pagina web desde cero asi que tuve que entrar en este mundo de la programación.
+Desde hace un tiempo me empezo a interesar todo el tema del diseño de paginas web y la experiencia de usuario pero tenia la necesidad de saber que habia detras de todo eso y el cómo era iniciar un aplicación o desarrollar una pagina web desde cero asi que tuve que entrar en este mundo de la programación.<h4/>
 
 ¿QUE HAGO?
 
@@ -26,4 +24,4 @@ El tema del desarrollo web entro a mi vida hace mas de un año cuando me di cuen
 Tambien tengo conocimientos en herramientas de disño visual como Figma
 
 
--->
+
